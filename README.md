@@ -47,5 +47,5 @@ Congratulations! You guessed the word.
 - Learned to generate random values using the random module.
 - Improved problem-solving and logical thinking skills.
 
-## Author
-Bushra Mirani
+ Author
+Bushra irshad
