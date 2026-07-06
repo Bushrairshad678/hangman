@@ -1,9 +1,9 @@
- Task 1: Hangman Game
+## Task 1: Hangman Game
 
- Description
+## Description
 The Hangman Game is a simple text-based Python game where the player guesses a hidden word one letter at a time. The player has a limited number of incorrect guesses. The game ends when the player correctly guesses the word or uses all available attempts.
 
- Features
+## Features
 - Randomly selects a word from a predefined list.
 - Accepts one letter as input at a time.
 - Tracks correct and incorrect guesses.
@@ -12,7 +12,7 @@ The Hangman Game is a simple text-based Python game where the player guesses a h
 - Shows a win message if the word is guessed correctly.
 - Shows a game over message if all attempts are used.
 
- Concepts Used
+## Concepts Used
 - Python Lists
 - Strings
 - Loops (while)
@@ -21,14 +21,14 @@ The Hangman Game is a simple text-based Python game where the player guesses a h
 - User Input
 - Functions (optional)
 
- How to Run
+ ##How to Run
 1. Install Python 3.
 2. Open the project in VS Code.
 3. Open the terminal.
 4. Run the following command:
    python task1.py
 
- Sample Output
+ ##Sample Output
 
 Welcome to Hangman!
 
@@ -41,11 +41,11 @@ Wrong Guess!
 Remaining Attempts: 5
 Congratulations! You guessed the word.
 
- Learning Outcomes
+## Learning Outcomes
 - Learned how to use loops and conditional statements.
 - Practiced working with strings and lists.
 - Learned to generate random values using the random module.
 - Improved problem-solving and logical thinking skills.
 
- Author
+## Author
 Bushra irshad
